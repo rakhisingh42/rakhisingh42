@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Rakhi Singh
+Hi, I'm Rakhi Singh
 Software Engineer · Backend Engineering · AI Applications
 Building scalable backend systems, intelligent AI applications,
 and production-ready software with Python, FastAPI, Django, PostgreSQL, RAG and LLM tooling.
@@ -20,7 +20,7 @@ and production-ready software with Python, FastAPI, Django, PostgreSQL, RAG and 
 </div>
 
 
-🌐 Portfolio Preview
+ Portfolio Preview
 <div align="center">
 
 <a href="https://rakhi-singh.vercel.app/">
